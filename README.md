@@ -1,2 +1,6 @@
 # tiendita
-este proyecto tiene como finalidad el saber ocupar algoritmos para beneficio de una tienda 
+ATLAHUA CRUZ MARIA DOLORES
+BONOLA CAMPOS BRANDON URIEL
+GARCIA MARTINEZ PERLA MARELY
+MEDINA PELAEZ ANGEL MOISES
+VELAZQUEZ SANCHEZ VALERIA
